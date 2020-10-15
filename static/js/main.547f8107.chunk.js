@@ -1,0 +1,2 @@
+(this.webpackJsonpyongphilip=this.webpackJsonpyongphilip||[]).push([[0],{3:function(e,t,n){e.exports=n(8)},8:function(e,t,n){"use strict";n.r(t);var r=n(0),i=n.n(r),p=n(2);var o=function(){return i.a.createElement("p",null,"Hey there! This is a React Web App but there's nothing yet :( but hey there!")};n.n(p).a.render(i.a.createElement(o,null),document.getElementById("root"))}},[[3,1,2]]]);
+//# sourceMappingURL=main.547f8107.chunk.js.map
